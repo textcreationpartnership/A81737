@@ -1,0 +1,208 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dreadfull nevves from VViltshire and Norfolke. Read in the House of Commons upon Saturday last. VVherein is declared the proceedings of the Marquesse of Hartford and the Lord Seymore, in the county of Wiltshire: and the resolution of the inhabitants concerning the said lords. Also the resolution of the Earle of Lindsey, Lord Generall of his Majesties forces, concerning the raising of forces in Norfolke. With the Parliaments determination therein. Hen. Elsing. Cler. Parl.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81737</idno>
+            <idno type="STC">Wing D2154</idno>
+            <idno type="STC">Thomason E109_15</idno>
+            <idno type="STC">ESTC R6825</idno>
+            <idno type="EEBO-CITATION">99873043</idno>
+            <idno type="PROQUEST">99873043</idno>
+            <idno type="VID">125491</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81737)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125491)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 19:E109[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Dreadfull nevves from VViltshire and Norfolke. Read in the House of Commons upon Saturday last. VVherein is declared the proceedings of the Marquesse of Hartford and the Lord Seymore, in the county of Wiltshire: and the resolution of the inhabitants concerning the said lords. Also the resolution of the Earle of Lindsey, Lord Generall of his Majesties forces, concerning the raising of forces in Norfolke. With the Parliaments determination therein. Hen. Elsing. Cler. Parl.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[7] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Smith,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug: 6".</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lindsey, Robert Bertie, --  Earl of, 1582-1642 --  Early works to 1800.</term>
+               <term>Somerset, William Seymour, --  Duke of, 1588-1660 --  Early works to 1800.</term>
+               <term>Commissions of array --  England --  Early works to 1800.</term>
+               <term>Wiltshire (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources --  Early works to 1800.</term>
+               <term>Norfolk (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125491:1" rendition="simple:additions"/>
+            <p>Dreadfull NEVVES From VViltſhire and Norfolke. Read in the Houſe of Com<g ref="char:EOLhyphen"/>mons upon Saturday laſt.</p>
+            <p>Wherein is declared the proceedings of the Marqueſſe of Hartford and the Lord <hi>Seymore,</hi> in the County of Wiltſhire: and the reſolution of the Inhabitants concer<g ref="char:EOLhyphen"/>ning the ſaid Lords.</p>
+            <p>Alſo the reſolution of the Earle of Lindſey, Lord Generall of his Majeſties forces, concerning the raiſing of forces in Norfolke.</p>
+            <p>With the Parliaments determina<g ref="char:EOLhyphen"/>tion therein.</p>
+            <p>
+               <add>Aug: 6</add> HEN. ELSING. <hi>Cler. Parl.</hi>
+            </p>
+            <p>Printed for <hi>Iohn Smith,</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:125491:2"/>
+            <pb facs="tcp:125491:2"/>
+            <head>Dreadful Newes from VVilt<g ref="char:EOLhyphen"/>ſhire and N<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rfolke, read in the Houſe of Commons upon Sa<g ref="char:EOLhyphen"/>turday laſt. VVherein is declared the proceedings of the M<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>qu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſe of H<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rtford, and the Lord <hi>Seymore,</hi> in the County of Wiltſhire, and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he reſolution of the inha<g ref="char:EOLhyphen"/>bitants of that County concerning the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d Lords.</head>
+            <head type="sub">Alſo the reſolution of the Earle of Lindſey Lord Generall of his Majeſties forces, concerning the raiſing of forces in Norfoke: with the Parliaments determination therein.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He diſtractions and diſtem<g ref="char:EOLhyphen"/>pers of this Kingdome are now more apparantly knowne then ever they have beene formerly, and beginne to claime things which formerly would not b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> granted: they do<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> alſo b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gin to <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> mo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e
+<pb facs="tcp:125491:3"/> and more over the diſtreſſed inhabitants, which ſtrikes terror and amazement to the beholders. This is the malignant party which began theſe dreadfull times, whoſe hearts ſeeke and thirſt after blood, and whoſe almes tend to no other then to ruine them, the upholders and wel-wiſh<g ref="char:EOLhyphen"/>ers of Gods true Religion, and to bring in their owne popiſh and idolatrous ceremonies. They never ſought the deſtruction and ruine of this Kingdome ſo much till the Pillar of the Com<g ref="char:EOLhyphen"/>monwealth aſſembled together, I meane this our happy and worthy Aſſembly, which by Gods divine providence were called together, and united in body, and have ſince their ſitting diſcovered many hell-bred plots and conſpira<g ref="char:EOLhyphen"/>cies, and have found out many delinquents which were enemies to the Commonwealth.</p>
+            <p>This malignant party hath ſo farre prevailed with his Majeſty, that they have raiſed divers troopes in a warlike manner, and have endea<g ref="char:EOLhyphen"/>voured to put the commiſſion of Array in exe<g ref="char:EOLhyphen"/>cution in divers Counties in this Realme, as for example may appeare in theſe following parti<g ref="char:EOLhyphen"/>culars.</p>
+            <p>Upon the twenty eight of <hi>Iuly,</hi> there a Meſſen<g ref="char:EOLhyphen"/>ger came to the Houſe of Commons informing them that the Marqueſſe of Hartford, and the Lord <hi>Seymor,</hi> have made great diſturbance in
+<pb facs="tcp:125491:3"/> Wiltſhire by endeavouring to get the Commiſ<g ref="char:EOLhyphen"/>ſion of Array in execution, and in attempting to ſeiſe upon their Magazine, but they were op<g ref="char:EOLhyphen"/>poſed and moſt couragiouſly reſiſted by the greateſt part of the County. Therefore there is no queſtion but the ordinance of Parliament will be obeied in that County, by reaſon they ſtand generally affected to the Common weale, and will by no meanes give way nor ſuffer the Commiſſion of Array ſhall bee put in execu<g ref="char:EOLhyphen"/>tion.</p>
+            <p>Therefore it is thought that his Majeſty will goe in perſon to that county, and put the ſame in execution: for it is credibly reported that he is reſolved to come.</p>
+            <div type="part">
+               <pb facs="tcp:125491:4"/>
+               <head>Newes from <hi>Norfolke.</hi>
+               </head>
+               <p>THere was alſo newes brought from Norfolke to the Houſe of Commons, informing them that the Earl of Lindſey Lord Generall of his Majeſties forces hath ſent a Gentleman with a warrant to lie in Norfolke, to beate up drums for the raiſing of Volunteers which pretends they are entertained for the ſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ty of his Majeſties perſon, and both Houſes of Parliament, whereupon the Houſes taking in<g ref="char:EOLhyphen"/>to conſideration the great danger that might en<g ref="char:EOLhyphen"/>ſue thereby, reſolved, and ordered that the ſaid Captaine ſhould be ſent for as a delinquent, and the County to have information not to raiſe any men upon ſuch ſummons.</p>
+               <p>They have alſo had information that there have beene great diſturbances in divers other Coun<g ref="char:EOLhyphen"/>ties about the ſaid Commiſſion of Array, being endeavored to put in execution in ſome other places where the Ordnance to the Militia hath a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dy too<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y <gap reason="illegible" extent="3 words">
+                     <desc>〈◊◊◊〉</desc>
+                  </gap>
+                  <pb facs="tcp:125491:4"/> time in debate therof, ordered, that the Members of the houſe o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Commons, ſerving for the Coun<g ref="char:EOLhyphen"/>ti<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s where ſuch diſturbances have beene, ſhould goe down<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d take order for the putting of the Militia i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> execution, to preſerve the peace of the Counties againſt all that ſhall oppoſe them, according to the Order of both Houſes.</p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
